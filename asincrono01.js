@@ -55,4 +55,3 @@ function filtrarPorAutor(arregloLibrosP, AutorP) {
 filtrarPorAutor (libros, "Homero");
 
 filtrarPorAutor (libros, "Jack London");
-
