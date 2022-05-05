@@ -8,10 +8,10 @@ class Libro {
         this.genero = generoC
     }
     mostrarLibro () {
-        console.log("nombre libro: "+this.nombreLibro);
-        console.log("autor: "+this.autor);
-        console.log("editorial: "+this.editorial);
-        console.log("genero: "+this.genero);
+        console.log("nombre libro: " + this.nombreLibro);
+        console.log("autor: " + this.autor);
+        console.log("editorial: " + this.editorial);
+        console.log("genero: " + this.genero);
         console.log("_____________________________________")
     }
 
